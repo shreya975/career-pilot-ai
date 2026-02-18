@@ -1,0 +1,60 @@
+{
+  "backend developer": [
+    "python",
+    "flask",
+    "django",
+    "sql",
+    "mysql",
+    "postgresql",
+    "rest api",
+    "docker",
+    "git"
+  ],
+
+  "frontend developer": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "angular",
+    "vue",
+    "bootstrap",
+    "tailwind",
+    "git"
+  ],
+
+  "full stack developer": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "node.js",
+    "python",
+    "flask",
+    "sql",
+    "docker",
+    "git"
+  ],
+
+  "data scientist": [
+    "python",
+    "machine learning",
+    "pandas",
+    "numpy",
+    "sql",
+    "matplotlib",
+    "scikit-learn",
+    "statistics"
+  ],
+
+  "ai engineer": [
+    "python",
+    "machine learning",
+    "deep learning",
+    "tensorflow",
+    "pytorch",
+    "numpy",
+    "docker",
+    "git"
+  ]
+}

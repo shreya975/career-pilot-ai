@@ -1,0 +1,50 @@
+{
+  "python": [
+    "Learn Python basics (variables, loops, functions)",
+    "Learn data structures in Python",
+    "Practice coding problems",
+    "Build small projects",
+    "Learn advanced Python concepts"
+  ],
+
+  "flask": [
+    "Learn Flask basics",
+    "Understand routing and templates",
+    "Build REST APIs",
+    "Connect Flask with database",
+    "Deploy Flask project"
+  ],
+
+  "sql": [
+    "Learn SQL basics",
+    "Practice queries (SELECT, JOIN, GROUP BY)",
+    "Learn database design",
+    "Work with MySQL/PostgreSQL",
+    "Build database projects"
+  ],
+
+  "machine learning": [
+    "Learn Python for ML",
+    "Learn NumPy and Pandas",
+    "Learn data preprocessing",
+    "Study ML algorithms",
+    "Build ML projects",
+    "Learn model deployment"
+  ],
+
+  "docker": [
+    "Learn Docker basics",
+    "Create Docker containers",
+    "Dockerize applications",
+    "Learn Docker Compose",
+    "Deploy using Docker"
+  ],
+
+  "git": [
+    "Learn Git basics",
+    "Learn branching",
+    "Use GitHub",
+    "Collaborate using Git",
+    "Manage real projects"
+  ]
+}
