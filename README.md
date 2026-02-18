@@ -136,7 +136,7 @@ Structured Data Layer (JSON Databases)
 ## 🚀 Installation & Setup
 - 1️⃣ Clone the Repository
     - git clone https://github.com/shreya975/career-copilot-ai.git
-    - cd careerpilot-ai
+    - cd career-copilot-ai
       
 - 2️⃣ Backend Setup
     - cd backend
