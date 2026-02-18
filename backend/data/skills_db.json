@@ -1,0 +1,191 @@
+{
+  "skills": [
+
+
+    "python",
+    "java",
+    "c",
+    "c++",
+    "c#",
+    "javascript",
+    "typescript",
+    "go",
+    "rust",
+
+    "html",
+    "css",
+    "sass",
+    "tailwind",
+    "bootstrap",
+
+    "react",
+    "angular",
+    "vue",
+    "next.js",
+
+    "flask",
+    "django",
+    "fastapi",
+    "node.js",
+    "express",
+    "spring boot",
+
+    "sql",
+    "mysql",
+    "postgresql",
+    "mongodb",
+    "redis",
+
+    "machine learning",
+    "deep learning",
+    "natural language processing",
+    "nlp",
+    "computer vision",
+    "tensorflow",
+    "pytorch",
+    "scikit-learn",
+
+    "data analysis",
+    "data science",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "power bi",
+    "tableau",
+
+    "git",
+    "github",
+    "gitlab",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "ci/cd",
+
+    "aws",
+    "azure",
+    "gcp",
+    "terraform",
+
+    "rest api",
+    "api development",
+    "graphql",
+
+    "data structures",
+    "algorithms",
+    "oop",
+    "system design",
+
+    "linux",
+    "bash",
+    "shell scripting",
+    "networking",
+    "tcp/ip",
+
+    "cybersecurity",
+    "ethical hacking",
+    "penetration testing",
+    "cryptography",
+    "wireshark",
+    "firewalls",
+
+
+
+    "digital electronics",
+    "analog electronics",
+    "microcontrollers",
+    "microprocessors",
+    "arduino",
+    "raspberry pi",
+    "embedded systems",
+    "iot",
+    "pcb design",
+    "vlsi",
+    "verilog",
+    "vhdl",
+    "fpga",
+    "signal processing",
+    "control systems",
+    "plc",
+    "scada",
+    "power systems",
+    "electrical machines",
+    "matlab",
+    "simulink",
+
+ 
+
+    "autocad",
+    "solidworks",
+    "catia",
+    "ansys",
+    "creo",
+    "engineering drawing",
+    "thermodynamics",
+    "fluid mechanics",
+    "heat transfer",
+    "manufacturing processes",
+    "machine design",
+    "vehicle dynamics",
+    "industrial engineering",
+    "lean manufacturing",
+    "six sigma",
+    "quality control",
+
+    
+
+
+    "staad pro",
+    "etabs",
+    "sap2000",
+    "revit",
+    "structural analysis",
+    "construction management",
+    "quantity surveying",
+    "geotechnical engineering",
+    "surveying",
+    "building materials",
+    "project planning",
+
+    
+
+    "chemical reaction engineering",
+    "process design",
+    "process simulation",
+    "aspentech",
+    "heat exchangers",
+    "mass transfer",
+    "plant design",
+    "refinery operations",
+    "fluid mechanics (chemical)",
+    "industrial safety",
+
+    
+
+    "medical instrumentation",
+    "biomechanics",
+    "bioinformatics",
+    "biomedical signal processing",
+    "medical imaging",
+    "clinical engineering",
+
+    
+
+    "aerodynamics",
+    "aircraft structures",
+    "propulsion systems",
+    "avionics",
+    "computational fluid dynamics",
+    "cfd",
+
+    
+
+    "problem solving",
+    "critical thinking",
+    "communication",
+    "teamwork",
+    "leadership",
+    "project management",
+    "time management"
+  ]
+}

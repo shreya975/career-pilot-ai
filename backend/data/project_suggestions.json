@@ -1,0 +1,156 @@
+{
+  "AI Engineer": [
+    "Build Resume Skill Analyzer",
+    "Build AI Career Recommender System",
+    "Build ChatGPT-style AI Chatbot",
+    "Build Recommendation System",
+    "Build Image Classifier (CNN)",
+    "Build NLP Sentiment Analyzer",
+    "Build Face Recognition System",
+    "Build Speech-to-Text System",
+    "Deploy ML Model using FastAPI",
+    "Build End-to-End ML Pipeline"
+  ],
+
+  "Data Scientist": [
+    "Build Data Analysis Dashboard",
+    "Build House Price Prediction Model",
+    "Build Stock Market Prediction Model",
+    "Build Customer Segmentation System",
+    "Build Data Visualization Tool (Power BI/Tableau)",
+    "Build Fraud Detection Model",
+    "Build Time Series Forecasting System"
+  ],
+
+  "Backend Developer": [
+    "Build REST API with Flask/Django",
+    "Build Authentication & Authorization System",
+    "Build Scalable Microservices Architecture",
+    "Build Database-driven Application",
+    "Build JWT Authentication System",
+    "Build API Rate Limiter",
+    "Build Payment Integration Backend",
+    "Deploy Backend using Docker"
+  ],
+
+  "Frontend Developer": [
+    "Build Personal Portfolio Website",
+    "Build React Admin Dashboard",
+    "Build E-commerce Frontend",
+    "Build Real-time Chat UI",
+    "Build Responsive Landing Page",
+    "Build SaaS Product UI",
+    "Build Interactive Data Visualization UI"
+  ],
+
+  "Full Stack Developer": [
+    "Build Full Stack E-commerce Platform",
+    "Build SaaS Web Application",
+    "Build AI-powered Web App",
+    "Build Real-time Chat Application",
+    "Build Job Portal Website",
+    "Build Learning Management System"
+  ],
+
+  "DevOps Engineer": [
+    "Dockerize Full Stack Application",
+    "Build CI/CD Pipeline with Jenkins",
+    "Deploy App on AWS EC2",
+    "Set up Kubernetes Cluster",
+    "Build Infrastructure using Terraform",
+    "Implement Monitoring with Prometheus"
+  ],
+
+  "Cloud Engineer": [
+    "Deploy Scalable Web App on AWS",
+    "Build Serverless Application",
+    "Set up Load Balancer + Auto Scaling",
+    "Build Cloud Storage System",
+    "Implement Cloud Security Policies"
+  ],
+
+  "Cybersecurity Engineer": [
+    "Build Password Strength Analyzer",
+    "Perform Web App Penetration Testing",
+    "Build Network Scanner Tool",
+    "Implement Secure Login System",
+    "Simulate Phishing Detection System",
+    "Build Basic Encryption Tool"
+  ],
+
+  "Embedded Systems Engineer": [
+    "Build IoT Smart Home System",
+    "Build Temperature Monitoring System (Arduino)",
+    "Build Smart Agriculture System",
+    "Build RFID Attendance System",
+    "Design PCB for Custom Hardware"
+  ],
+
+  "VLSI Engineer": [
+    "Design ALU using Verilog",
+    "Implement Digital Clock on FPGA",
+    "Design UART Communication Module",
+    "Build Traffic Light Controller (VHDL)"
+  ],
+
+  "Mechanical Engineer": [
+    "Design 3D Model using SolidWorks",
+    "Perform Stress Analysis using ANSYS",
+    "Design Gear Mechanism",
+    "Build Mini CNC Machine Model",
+    "Thermal Analysis of Heat Exchanger"
+  ],
+
+  "Automobile Engineer": [
+    "Design Electric Vehicle Model",
+    "Analyze Engine Efficiency",
+    "Build Suspension System Model",
+    "Vehicle Aerodynamic Simulation"
+  ],
+
+  "Civil Engineer": [
+    "Design G+2 Building using ETABS",
+    "Bridge Structural Analysis",
+    "Construction Project Cost Estimation",
+    "Quantity Surveying Project",
+    "Soil Testing & Analysis Project"
+  ],
+
+  "Electrical Engineer": [
+    "Power Distribution System Design",
+    "PLC-based Automation Project",
+    "Build Smart Grid Simulation",
+    "Design Solar Power System",
+    "Motor Control System using MATLAB"
+  ],
+
+  "Electronics Engineer": [
+    "Design Amplifier Circuit",
+    "Build IoT Communication Module",
+    "Signal Processing Project using MATLAB",
+    "Design Digital Filter",
+    "Wireless Communication Simulation"
+  ],
+
+  "Chemical Engineer": [
+    "Design Chemical Plant Layout",
+    "Heat Exchanger Design Project",
+    "Process Simulation using Aspen",
+    "Distillation Column Design",
+    "Industrial Safety Analysis Project"
+  ],
+
+  "Biomedical Engineer": [
+    "Build Heart Rate Monitoring System",
+    "Design Medical Imaging Analysis Tool",
+    "EEG Signal Processing Project",
+    "Develop Prosthetic Design Model"
+  ],
+
+  "Aeronautical Engineer": [
+    "Aircraft Wing Design using CFD",
+    "Rocket Propulsion Simulation",
+    "Drone Aerodynamics Analysis",
+    "Flight Stability Simulation"
+  ]
+}

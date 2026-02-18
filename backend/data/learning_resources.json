@@ -1,0 +1,215 @@
+{
+  "python": [
+    "Python Official Documentation",
+    "freeCodeCamp Python Course (YouTube)",
+    "Automate the Boring Stuff with Python",
+    "Corey Schafer Python Playlist"
+  ],
+
+  "java": [
+    "Java Official Documentation",
+    "Java Programming Masterclass - Udemy",
+    "freeCodeCamp Java Course"
+  ],
+
+  "c++": [
+    "C++ Reference (cplusplus.com)",
+    "The Cherno C++ Series (YouTube)",
+    "LearnCpp.com"
+  ],
+
+  "javascript": [
+    "JavaScript.info",
+    "MDN JavaScript Docs",
+    "freeCodeCamp JavaScript Course"
+  ],
+
+  "html": [
+    "MDN HTML Documentation",
+    "freeCodeCamp HTML Course",
+    "W3Schools HTML Tutorial"
+  ],
+
+  "css": [
+    "MDN CSS Documentation",
+    "freeCodeCamp CSS Course",
+    "CSS Tricks Guide"
+  ],
+
+  "react": [
+    "React Official Docs",
+    "React Full Course - freeCodeCamp",
+    "Net Ninja React Playlist"
+  ],
+
+  "node.js": [
+    "Node.js Official Docs",
+    "Node.js Crash Course",
+    "The Net Ninja Node Playlist"
+  ],
+
+  "flask": [
+    "Flask Official Documentation",
+    "Corey Schafer Flask Tutorial",
+    "Flask Mega Tutorial"
+  ],
+
+  "django": [
+    "Django Official Docs",
+    "Django for Beginners Book",
+    "Corey Schafer Django Playlist"
+  ],
+
+  "sql": [
+    "SQLBolt Interactive Course",
+    "W3Schools SQL Tutorial",
+    "Mode Analytics SQL Tutorial"
+  ],
+
+  "mongodb": [
+    "MongoDB University Free Courses",
+    "MongoDB Official Docs",
+    "freeCodeCamp MongoDB Course"
+  ],
+
+  "machine learning": [
+    "Coursera: Machine Learning by Andrew Ng",
+    "StatQuest ML Playlist",
+    "Scikit-learn Documentation"
+  ],
+
+  "deep learning": [
+    "Deep Learning Specialization - Coursera",
+    "DeepLearning.AI YouTube",
+    "PyTorch Official Tutorials"
+  ],
+
+  "natural language processing": [
+    "NLP Specialization - Coursera",
+    "HuggingFace Course",
+    "spaCy Documentation"
+  ],
+
+  "computer vision": [
+    "OpenCV Official Docs",
+    "Computer Vision Full Course - freeCodeCamp",
+    "PyImageSearch Blog"
+  ],
+
+  "tensorflow": [
+    "TensorFlow Official Tutorials",
+    "TensorFlow YouTube Guide"
+  ],
+
+  "pytorch": [
+    "PyTorch Official Tutorials",
+    "DeepLearning.AI PyTorch Course"
+  ],
+
+  "docker": [
+    "Docker Official Documentation",
+    "Docker Crash Course (YouTube)",
+    "KodeKloud Docker Course"
+  ],
+
+  "kubernetes": [
+    "Kubernetes Official Docs",
+    "Kubernetes for Beginners - KodeKloud",
+    "TechWorld with Nana Kubernetes Playlist"
+  ],
+
+  "aws": [
+    "AWS Skill Builder",
+    "AWS Cloud Practitioner Course",
+    "freeCodeCamp AWS Full Course"
+  ],
+
+  "azure": [
+    "Microsoft Learn Azure Path",
+    "Azure Fundamentals Course"
+  ],
+
+  "gcp": [
+    "Google Cloud Skills Boost",
+    "GCP Associate Cloud Engineer Course"
+  ],
+
+  "git": [
+    "Git Official Documentation",
+    "Git & GitHub Crash Course",
+    "Atlassian Git Tutorials"
+  ],
+
+  "cybersecurity": [
+    "Cybrary Free Courses",
+    "TryHackMe Platform",
+    "OWASP Documentation"
+  ],
+
+  "embedded systems": [
+    "Embedded Systems - Coursera",
+    "ARM Documentation",
+    "Udemy Embedded Systems Course"
+  ],
+
+  "autocad": [
+    "AutoCAD Official Tutorials",
+    "AutoCAD Complete Course - YouTube"
+  ],
+
+  "solidworks": [
+    "SolidWorks Official Training",
+    "SolidWorks YouTube Tutorials"
+  ],
+
+  "ansys": [
+    "ANSYS Learning Hub",
+    "ANSYS Beginner Tutorials"
+  ],
+
+  "staad pro": [
+    "STAAD Pro Official Guide",
+    "Civil Engineering STAAD Tutorials"
+  ],
+
+  "etabs": [
+    "ETABS Official Tutorials",
+    "ETABS Full Course - YouTube"
+  ],
+
+  "process design": [
+    "Chemical Engineering Design Book",
+    "NPTEL Chemical Engineering Lectures"
+  ],
+
+  "power systems": [
+    "Power Systems Engineering - NPTEL",
+    "Electrical Engineering YouTube Playlist"
+  ],
+
+  "verilog": [
+    "Verilog HDL Tutorial",
+    "NPTEL VLSI Course"
+  ],
+
+  "aerodynamics": [
+    "MIT OpenCourseWare Aerodynamics",
+    "CFD Online Tutorials"
+  ],
+
+  "problem solving": [
+    "LeetCode Practice",
+    "CodeStudio Practice Problems",
+    "HackerRank Challenges"
+  ],
+
+  "communication": [
+    "Toastmasters Public Speaking Guide",
+    "Coursera Communication Skills Course"
+  ],
+
+  "project management": [
+    "Google Project Management Certificate",
+    "PMI Official Resources"
+  ]
+}

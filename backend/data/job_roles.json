@@ -1,0 +1,249 @@
+{
+  "Computer Science Engineering": {
+    "AI Engineer": {
+      "required_skills": [
+        "python",
+        "machine learning",
+        "deep learning",
+        "nlp",
+        "tensorflow",
+        "pytorch",
+        "data structures",
+        "algorithms",
+        "git"
+      ]
+    },
+    "Backend Developer": {
+      "required_skills": [
+        "python",
+        "java",
+        "node.js",
+        "flask",
+        "django",
+        "rest api",
+        "sql",
+        "mongodb",
+        "docker",
+        "git"
+      ]
+    },
+    "Frontend Developer": {
+      "required_skills": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "tailwind",
+        "git"
+      ]
+    },
+    "Full Stack Developer": {
+      "required_skills": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "node.js",
+        "flask",
+        "sql",
+        "mongodb",
+        "git",
+        "docker"
+      ]
+    },
+    "Cybersecurity Engineer": {
+      "required_skills": [
+        "network security",
+        "ethical hacking",
+        "penetration testing",
+        "linux",
+        "cryptography",
+        "wireshark",
+        "firewalls"
+      ]
+    },
+    "Cloud Engineer": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "gcp",
+        "docker",
+        "kubernetes",
+        "linux",
+        "devops",
+        "terraform"
+      ]
+    },
+    "DevOps Engineer": {
+      "required_skills": [
+        "docker",
+        "kubernetes",
+        "jenkins",
+        "ci/cd",
+        "linux",
+        "bash",
+        "aws",
+        "git"
+      ]
+    }
+  },
+
+  "Information Technology": {
+    "System Administrator": {
+      "required_skills": [
+        "linux",
+        "windows server",
+        "networking",
+        "shell scripting",
+        "virtualization",
+        "troubleshooting"
+      ]
+    },
+    "Network Engineer": {
+      "required_skills": [
+        "tcp/ip",
+        "routing",
+        "switching",
+        "cisco",
+        "firewalls",
+        "network security"
+      ]
+    }
+  },
+
+  "Mechanical Engineering": {
+    "Design Engineer": {
+      "required_skills": [
+        "autocad",
+        "solidworks",
+        "catia",
+        "ansys",
+        "engineering drawing",
+        "material science"
+      ]
+    },
+    "Production Engineer": {
+      "required_skills": [
+        "manufacturing processes",
+        "quality control",
+        "lean manufacturing",
+        "six sigma",
+        "industrial engineering"
+      ]
+    },
+    "Automobile Engineer": {
+      "required_skills": [
+        "automotive systems",
+        "engine design",
+        "thermodynamics",
+        "cad",
+        "vehicle dynamics"
+      ]
+    }
+  },
+
+  "Electrical Engineering": {
+    "Power Systems Engineer": {
+      "required_skills": [
+        "power generation",
+        "power transmission",
+        "electrical machines",
+        "matlab",
+        "pscads"
+      ]
+    },
+    "Control Systems Engineer": {
+      "required_skills": [
+        "control theory",
+        "plc",
+        "scada",
+        "matlab",
+        "automation"
+      ]
+    }
+  },
+
+  "Electronics and Communication Engineering": {
+    "Embedded Systems Engineer": {
+      "required_skills": [
+        "c",
+        "c++",
+        "microcontrollers",
+        "arduino",
+        "raspberry pi",
+        "iot",
+        "pcb design"
+      ]
+    },
+    "VLSI Engineer": {
+      "required_skills": [
+        "verilog",
+        "vhdl",
+        "digital electronics",
+        "asic design",
+        "fpga",
+        "cadence"
+      ]
+    },
+    "Telecom Engineer": {
+      "required_skills": [
+        "wireless communication",
+        "5g",
+        "signal processing",
+        "rf design"
+      ]
+    }
+  },
+
+  "Civil Engineering": {
+    "Structural Engineer": {
+      "required_skills": [
+        "staad pro",
+        "etabs",
+        "autocad",
+        "structural analysis",
+        "construction materials"
+      ]
+    },
+    "Site Engineer": {
+      "required_skills": [
+        "construction management",
+        "project planning",
+        "quantity surveying",
+        "safety regulations"
+      ]
+    }
+  },
+
+  "Chemical Engineering": {
+    "Process Engineer": {
+      "required_skills": [
+        "process design",
+        "thermodynamics",
+        "heat transfer",
+        "chemical reaction engineering",
+        "aspentech"
+      ]
+    },
+    "Petrochemical Engineer": {
+      "required_skills": [
+        "refinery operations",
+        "process simulation",
+        "fluid mechanics",
+        "plant safety"
+      ]
+    }
+  },
+
+  "Biomedical Engineering": {
+    "Biomedical Engineer": {
+      "required_skills": [
+        "medical instrumentation",
+        "biomechanics",
+        "signal processing",
+        "embedded systems",
+        "matlab"
+      ]
+    }
+  }
+}

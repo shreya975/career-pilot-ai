@@ -1,0 +1,163 @@
+{
+  "Foundation": {
+    "estimated_time": "4–8 weeks",
+    "difficulty": "Beginner",
+    "recommended_focus": [
+      "Programming fundamentals",
+      "Mathematics basics",
+      "Engineering fundamentals",
+      "Data Structures",
+      "OOP concepts"
+    ],
+    "applicable_branches": [
+      "Computer Science",
+      "Information Technology",
+      "Mechanical",
+      "Civil",
+      "Electrical",
+      "Electronics",
+      "Chemical",
+      "Biomedical",
+      "Aeronautical"
+    ],
+    "outcome": "Strong technical base and logical thinking ability"
+  },
+
+  "Core Development / Domain Skills": {
+    "estimated_time": "6–12 weeks",
+    "difficulty": "Intermediate",
+    "recommended_focus": [
+      "Web development stack",
+      "Core engineering tools (CAD, ETABS, ANSYS, etc.)",
+      "Database systems",
+      "System design fundamentals"
+    ],
+    "applicable_branches": [
+      "Computer Science",
+      "Mechanical",
+      "Civil",
+      "Electrical",
+      "Electronics"
+    ],
+    "outcome": "Domain-level practical competency"
+  },
+
+  "AI / Data Specialization": {
+    "estimated_time": "8–16 weeks",
+    "difficulty": "Advanced",
+    "recommended_focus": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Data Visualization Tools"
+    ],
+    "applicable_branches": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics",
+      "Biomedical"
+    ],
+    "outcome": "Ability to build intelligent systems"
+  },
+
+  "Cloud & DevOps": {
+    "estimated_time": "6–10 weeks",
+    "difficulty": "Advanced",
+    "recommended_focus": [
+      "Docker & Kubernetes",
+      "CI/CD pipelines",
+      "Cloud platforms (AWS/Azure/GCP)",
+      "Infrastructure as Code"
+    ],
+    "applicable_branches": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "outcome": "Ability to deploy and scale production systems"
+  },
+
+  "Core Engineering Specialization": {
+    "estimated_time": "8–14 weeks",
+    "difficulty": "Intermediate to Advanced",
+    "recommended_focus": [
+      "Mechanical design tools",
+      "Civil structural tools",
+      "Electrical systems",
+      "VLSI & Embedded systems",
+      "Chemical process design"
+    ],
+    "applicable_branches": [
+      "Mechanical",
+      "Civil",
+      "Electrical",
+      "Electronics",
+      "Chemical",
+      "Aeronautical",
+      "Biomedical"
+    ],
+    "outcome": "Industry-ready domain specialization"
+  },
+
+  "Professional & Soft Skills": {
+    "estimated_time": "2–6 weeks",
+    "difficulty": "Beginner to Intermediate",
+    "recommended_focus": [
+      "Communication",
+      "Problem solving",
+      "Leadership",
+      "Teamwork",
+      "Project management"
+    ],
+    "applicable_branches": [
+      "All Engineering Branches"
+    ],
+    "outcome": "Workplace readiness and team adaptability"
+  },
+
+  "Projects & Portfolio": {
+    "estimated_time": "6–10 weeks",
+    "difficulty": "Intermediate",
+    "recommended_focus": [
+      "Real-world application development",
+      "Mini + Major projects",
+      "GitHub portfolio building",
+      "Deployment experience"
+    ],
+    "applicable_branches": [
+      "All Engineering Branches"
+    ],
+    "outcome": "Strong practical portfolio for internships & placements"
+  },
+
+  "Research & Innovation": {
+    "estimated_time": "8–20 weeks",
+    "difficulty": "Advanced",
+    "recommended_focus": [
+      "Advanced simulations",
+      "AI research projects",
+      "Technical paper writing",
+      "Patent-oriented ideas"
+    ],
+    "applicable_branches": [
+      "All Engineering Branches"
+    ],
+    "outcome": "High-level technical expertise and research capability"
+  },
+
+  "Career Preparation": {
+    "estimated_time": "3–6 weeks",
+    "difficulty": "Intermediate",
+    "recommended_focus": [
+      "Interview preparation",
+      "Aptitude practice",
+      "Resume optimization",
+      "Mock interviews",
+      "Internship/job applications"
+    ],
+    "applicable_branches": [
+      "All Engineering Branches"
+    ],
+    "outcome": "Placement-ready candidate"
+  }
+}
