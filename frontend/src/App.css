@@ -1,0 +1,10 @@
+.dashboard {
+  width: 900px;
+  margin: auto;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top: 20px;
+}
